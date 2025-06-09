@@ -45,3 +45,7 @@ XGBoost, LightGBM ve CatBoost algoritmaları karşılaştırmalı olarak uygulan
 
 **Alparslan**  
 Veri bilimi, makine öğrenmesi ve veri görselleştirme üzerine çalışıyorum.  
+
+
+📘 [Notebook dosyasını buradan inceleyin](./Boosting_Methods_Capstone_Project%20(Titanic%20Prediction).ipynb)
+
